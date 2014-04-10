@@ -1,0 +1,38 @@
+== README
+
+"SchoolInfoWebsite" is a web application that provides a framework to create the following pages easily:
+	1. Introduction, Vision/Goals (HOME page)
+	2. Academic Information (Academics page)
+	3. Activity Information (Activities page)
+	4. Policies and Forms (Policies and Forms page)
+	5. Events & Photos (Events page)
+	6. Contact information, Send Message (Contact Us page)
+	7. Admin Portal
+
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
