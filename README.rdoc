@@ -1,12 +1,19 @@
 == README
 
 "SchoolInfoWebsite" is a web application that provides a framework to create the following pages easily:
+
 	* Introduction, Vision/Goals (HOME page)
+
 	* Academic Information (Academics page)
+
 	* Activity Information (Activities page)
+
 	* Policies and Forms (Policies and Forms page)
+
 	* Events & Photos (Events page)
+
 	* Contact information, Send Message (Contact Us page)
+	
 	* Admin Portal
 
 
