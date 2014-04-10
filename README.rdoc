@@ -1,13 +1,13 @@
 == README
 
 "SchoolInfoWebsite" is a web application that provides a framework to create the following pages easily:
-	1. Introduction, Vision/Goals (HOME page)
-	2. Academic Information (Academics page)
-	3. Activity Information (Activities page)
-	4. Policies and Forms (Policies and Forms page)
-	5. Events & Photos (Events page)
-	6. Contact information, Send Message (Contact Us page)
-	7. Admin Portal
+	* Introduction, Vision/Goals (HOME page)
+	* Academic Information (Academics page)
+	* Activity Information (Activities page)
+	* Policies and Forms (Policies and Forms page)
+	* Events & Photos (Events page)
+	* Contact information, Send Message (Contact Us page)
+	* Admin Portal
 
 
 This README would normally document whatever steps are necessary to get the
