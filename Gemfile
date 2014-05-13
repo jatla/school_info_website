@@ -7,8 +7,13 @@ group :test, :development do
 	gem 'rspec-rails'
 end
 
-# Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+# Gem used to create navigational menus
+gem 'simple-navigation-bootstrap'
+
+# Use postgres as the database for Active Record
+gem 'pg', '~> 0.17.1'
+
+gem 'rails_12factor', group: :production
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
@@ -47,3 +52,5 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+ruby "2.0.0"

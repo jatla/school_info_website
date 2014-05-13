@@ -1,4 +1,13 @@
 SchoolInfoWebsite::Application.routes.draw do
+
+  root 'static_page#home'
+  get '/home' => 'static_page#home', as: 'home'
+  get '/academics' => 'static_page#academics', as: 'academics'
+  get '/activities' => 'static_page#activities', as: 'activities'
+  get '/policies' => 'static_page#policies', as: 'policies'
+  get '/events' => 'static_page#events', as: 'events'
+  get '/contactus' => 'static_page#contactus', as: 'contactus'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

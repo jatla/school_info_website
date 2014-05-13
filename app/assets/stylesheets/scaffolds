@@ -4,6 +4,10 @@ body {
   font-family: verdana, arial, helvetica, sans-serif;
   font-size: 13px;
   line-height: 18px;
+  margin-top:50px;
+  margin-bottom:50px;
+  margin-right:100px;
+  margin-left:100px;
 }
 
 p, ol, ul, td {
