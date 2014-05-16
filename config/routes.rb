@@ -1,6 +1,13 @@
 SchoolInfoWebsite::Application.routes.draw do
 
+  devise_for :admins
+
   root 'static_page#home'
+
+  namespace :admins do
+    resources :pages
+  end
+
   get '/home' => 'static_page#home', as: 'home'
   get '/academics' => 'static_page#academics', as: 'academics'
   get '/activities' => 'static_page#activities', as: 'activities'

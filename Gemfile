@@ -5,7 +5,11 @@ gem 'rails', '4.0.3'
 
 group :test, :development do
 	gem 'rspec-rails'
+	gem 'sqlite3'
 end
+
+# Gem used for authentication
+gem 'devise'
 
 # Gem used to create navigational menus
 gem 'simple-navigation-bootstrap'
